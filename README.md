@@ -34,6 +34,7 @@
 | **[Brio Health – Meal Plan & Health Reports](https://github.com/varunvasudevan/brio-health)** | Doctors plan daily meals for patients; the system generates nutrient analysis, energy goals, BMI/BMR, hydration & sleep, lab-marker and lifestyle reports | Laravel, Blade, Bootstrap, MySQL |
 | **[QR Code Label Generator](https://github.com/varunvasudevan/qr-label-generator)** | Windows app for QR-coded part labels: live preview, printing to any printer, print history and CSV reports | Python, Tkinter, qrcode, pywin32 |
 | **[Visitor Management System](https://github.com/varunvasudevan/visitor-management-system)** | Desktop front-desk app: webcam photo capture, visitor details and check-in log; Android version in progress | Python, Tkinter, OpenCV, MySQL |
+| **[Hot Stamping ERP](https://github.com/varunvasudevan/hot-stamping-erp)** · 🚧 | SAP-style ERP for a hot stamping production company: coil tracking from store to dispatch, RBAC with per-module permissions, live activity log, FIFO inward stock and Excel reports | Laravel 10, PostgreSQL, Redis, Bootstrap 5, jQuery |
 | **[DC Bill Management System](https://github.com/varunvasudevan/dc-bill-management)** | Delivery challans for a mechanical engineering company in Chennai: returnable/non-returnable bills, partial returns, stock updates, PDF bills | Laravel, Tailwind CSS, MySQL, DomPDF |
 | **[Odoo / OpenERP – Tadpole Engineering](https://github.com/varunvasudevan/odoo-openerp-erp)** | As IT Manager in Chennai: ERP implementation, OpenERP 6/7 customisation (custom modules, views, reports), Odoo 13+ server management and upgrades, user training and support | Odoo, OpenERP, Python, PostgreSQL, Linux |
 | **[Bhasha Sanchika – DSpace Repository](https://github.com/varunvasudevan/bhasha-sanchika)** · [live](https://sanchika.ciil.org/) | CIIL's national digital language repository (7,700+ items): DSpace 9 deployment, fully custom theme, legacy backup migration, search and analytics | DSpace 9, Angular, Solr, Tomcat, PostgreSQL, Docker |
@@ -90,6 +91,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -106,6 +108,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
 ![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat&logo=apachesolr&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat&logo=redis&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
