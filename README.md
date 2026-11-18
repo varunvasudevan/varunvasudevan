@@ -17,7 +17,7 @@
 
 - 🏥 **Assistant Manager – IT** at a NABH-accredited hospital: HMIS/LIMS administration, in-house application development and network infrastructure
 - 📚 **Junior Resource Person (Technical)** with projects connected to **CIIL** (Central Institute of Indian Languages): DSpace repository, SPPEL website and an agentic AI application
-- 🏭 Previously at **Tadpole Engineering**: ERP management on Odoo / OpenERP
+- 🏭 Previously **IT Manager** at **Tadpole Engineering**, Chennai, including Odoo / OpenERP administration
 - 🎓 MCA
 
 > ℹ️ Most of my work is built for organizations, so the source code is private. The project pages below describe what I built, my role and the tech used.
