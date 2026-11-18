@@ -30,8 +30,8 @@
 |---|---|---|
 | **Hospital IT Ecosystem** | In-house modules around the HMIS: visitor management, OPD queue & token display, dietary management, doctor appointment booking, lab analyzer integration | Laravel, Livewire, Reverb, PostgreSQL |
 | **LIMS – Laboratory Management System** | Lab workflow from sample registration to result validation and printed reports, with analyzer integration | Laravel, PostgreSQL |
-| **Brio Health – Meal Plan & Health Reports** | Doctors plan daily meals for patients; the system generates nutrient analysis, energy goals, BMI/BMR, hydration & sleep, lab-marker and lifestyle reports | Laravel, Blade, Bootstrap, MySQL |
-| **Asset Management System** | Asset register, assignment tracking and maintenance history for a mechanical engineering company in Chennai | Web application |
+| **[Brio Health – Meal Plan & Health Reports](https://github.com/varunvasudevan/brio-health)** | Doctors plan daily meals for patients; the system generates nutrient analysis, energy goals, BMI/BMR, hydration & sleep, lab-marker and lifestyle reports | Laravel, Blade, Bootstrap, MySQL |
+| **[DC Bill Management System](https://github.com/varunvasudevan/dc-bill-management)** | Delivery challans for a mechanical engineering company in Chennai: returnable/non-returnable bills, partial returns, stock updates, PDF bills | Laravel, Tailwind CSS, MySQL, DomPDF |
 | **Bhasha Sanchika – DSpace Repository** | Digital repository for Indian-language resources at CIIL; installation, custom theme, search & analytics | DSpace 9.x, Angular, Solr, Tomcat, Docker, Ubuntu |
 | **SPPEL Website & Agentic App** | Website for the SPPEL project plus an agentic AI application | Laravel, Angular, AI/LLM integration |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
@@ -53,7 +53,6 @@
 
 - **MP25 Controller IoT Dashboard** — ESP32 → HiveMQ → MySQL → Node.js dashboard with RBAC login, PM2 deployment
 - **Flutter app + Laravel CMS** — Firebase Crashlytics, FCM push, CI pipeline bundling CMS content
-- **DC Bills Management** — Laravel system with Excel export (PhpSpreadsheet)
 - **RAG-based Laravel app** — local LLM with Ollama, automated Ubuntu server provisioning
 - **Windows Server 2022 AD setup** — domain, GPOs, FSRM quotas, NTFS permissions
 - **iOS Device Manager** — iTunes alternative built with PyQt5
