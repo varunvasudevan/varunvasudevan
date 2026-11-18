@@ -56,6 +56,7 @@
 
 | Project | About |
 |---|---|
+| [**DSpace 9 One-Stop Installer**](https://github.com/varunvasudevan/dspace9-installer) | One Bash script that installs a production-ready DSpace 9.x on Ubuntu: backend, Angular UI, PostgreSQL, Solr, Tomcat, PM2, Nginx and Let's Encrypt. Step-based, re-runnable, MIT licensed |
 | [**Lucky Dangle**](https://github.com/varunvasudevan/lucky-dangle) · [demo](https://varunvasudevan.github.io/lucky-dangle/) | A lucky charm that dangles from the top of your browser on a Verlet-rope simulation. One HTML file, no dependencies, MIT licensed |
 
 <details>
@@ -113,6 +114,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
