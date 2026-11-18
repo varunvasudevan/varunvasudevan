@@ -35,7 +35,7 @@
 | **[QR Code Label Generator](https://github.com/varunvasudevan/qr-label-generator)** | Windows app for QR-coded part labels: live preview, printing to any printer, print history and CSV reports | Python, Tkinter, qrcode, pywin32 |
 | **[Visitor Management System](https://github.com/varunvasudevan/visitor-management-system)** | Desktop front-desk app: webcam photo capture, visitor details and check-in log; Android version in progress | Python, Tkinter, OpenCV, MySQL |
 | **[DC Bill Management System](https://github.com/varunvasudevan/dc-bill-management)** | Delivery challans for a mechanical engineering company in Chennai: returnable/non-returnable bills, partial returns, stock updates, PDF bills | Laravel, Tailwind CSS, MySQL, DomPDF |
-| **Bhasha Sanchika – DSpace Repository** | Digital repository for Indian-language resources at CIIL; installation, custom theme, search & analytics | DSpace 9.x, Angular, Solr, Tomcat, Docker, Ubuntu |
+| **[Bhasha Sanchika – DSpace Repository](https://github.com/varunvasudevan/bhasha-sanchika)** · [live](https://sanchika.ciil.org/) | CIIL's national digital language repository (7,700+ items): DSpace 9 deployment, fully custom theme, legacy backup migration, search and analytics | DSpace 9, Angular, Solr, Tomcat, PostgreSQL, Docker |
 | **SPPEL Website & Agentic App** | Website for the SPPEL project plus an agentic AI application | Laravel, Angular, AI/LLM integration |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
@@ -46,6 +46,7 @@
 
 | Website | About |
 |---|---|
+| [sanchika.ciil.org](https://sanchika.ciil.org/) | Bhasha Sanchika, the digital language repository of CIIL, Ministry of Education |
 | [vanchipoorfund.org](https://vanchipoorfund.org/) | Kerala charity (est. 1941) with online donations and payment integration |
 | [shieldess.com](https://shieldess.com/) | Building management & ELV security systems company |
 | [attukaldevihospital.com](https://attukaldevihospital.com/) | NABH-accredited multispecialty hospital, Thiruvananthapuram |
