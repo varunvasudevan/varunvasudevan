@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://varun-sppel.github.io">🌐 Portfolio</a> ·
+  <a href="https://varunvasudevan.github.io">🌐 Portfolio</a> ·
   <a href="https://varunkumar.net">varunkumar.net</a>
 </p>
 
@@ -99,7 +99,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun-sppel&show_icons=true&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunvasudevan&show_icons=true&count_private=true&hide_border=true" height="160" />
 </p>
 
 ---
