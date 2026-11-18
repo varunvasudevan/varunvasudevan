@@ -52,6 +52,12 @@
 | [attukaldevihospital.com](https://attukaldevihospital.com/) | NABH-accredited multispecialty hospital, Thiruvananthapuram |
 | [trencoruae.com](https://trencoruae.com/) | Design & build company portfolio, UAE |
 
+### 🧩 Open source
+
+| Project | About |
+|---|---|
+| [**Lucky Dangle**](https://github.com/varunvasudevan/lucky-dangle) · [demo](https://varunvasudevan.github.io/lucky-dangle/) | A lucky charm that dangles from the top of your browser on a Verlet-rope simulation. One HTML file, no dependencies, MIT licensed |
+
 <details>
 <summary><b>More projects</b></summary>
 
@@ -83,6 +89,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 **Desktop & Mobile**
