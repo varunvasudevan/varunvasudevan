@@ -38,7 +38,7 @@
 | **[DC Bill Management System](https://github.com/varunvasudevan/dc-bill-management)** | Delivery challans for a mechanical engineering company in Chennai: returnable/non-returnable bills, partial returns, stock updates, PDF bills | Laravel, Tailwind CSS, MySQL, DomPDF |
 | **[Odoo / OpenERP – Tadpole Engineering](https://github.com/varunvasudevan/odoo-openerp-erp)** | As IT Manager in Chennai: ERP implementation, OpenERP 6/7 customisation (custom modules, views, reports), Odoo 13+ server management and upgrades, user training and support | Odoo, OpenERP, Python, PostgreSQL, Linux |
 | **[Bhasha Sanchika – DSpace Repository](https://github.com/varunvasudevan/bhasha-sanchika)** · [live](https://sanchika.ciil.org/) | CIIL's national digital language repository (7,700+ items): DSpace 9 deployment, fully custom theme, legacy backup migration, search and analytics | DSpace 9, Angular, Solr, Tomcat, PostgreSQL, Docker |
-| **SPPEL Website & Agentic App** | Website for the SPPEL project plus an agentic AI application | Laravel, Angular, AI/LLM integration |
+| **[SPPEL – Website & AI Assistant](https://github.com/varunvasudevan/sppel-website)** · [live](https://sppel.org/) | Official website of CIIL's Scheme for Protection and Preservation of Endangered Languages: 117 languages across six zones, resources catalogue, events, and an AI assistant answering visitor questions | Laravel, AI/LLM integration |
 | **[ESP32 LAN IR Sensor Counter](https://github.com/varunvasudevan/esp32-ir-sensor-counter)** | Six IR sensors on an ESP32 send counts over wired Ethernet to a Raspberry Pi; MySQL event log, live WebSocket dashboard, daily reset and power-cut recovery | ESP32, W5500, Raspberry Pi, FastAPI, MySQL, WebSockets |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
@@ -50,6 +50,7 @@
 | Website | About |
 |---|---|
 | [sanchika.ciil.org](https://sanchika.ciil.org/) | Bhasha Sanchika, the digital language repository of CIIL, Ministry of Education |
+| [sppel.org](https://sppel.org/) | SPPEL, CIIL's Scheme for Protection and Preservation of Endangered Languages, with an AI assistant |
 | [vanchipoorfund.org](https://vanchipoorfund.org/) | Kerala charity (est. 1941) with online donations and payment integration |
 | [shieldess.com](https://shieldess.com/) | Building management & ELV security systems company |
 | [attukaldevihospital.com](https://attukaldevihospital.com/) | NABH-accredited multispecialty hospital, Thiruvananthapuram |
