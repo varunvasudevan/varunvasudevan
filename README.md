@@ -34,12 +34,13 @@
 | **[Brio Health – Meal Plan & Health Reports](https://github.com/varunvasudevan/brio-health)** | Doctors plan daily meals for patients; the system generates nutrient analysis, energy goals, BMI/BMR, hydration & sleep, lab-marker and lifestyle reports | Laravel, Blade, Bootstrap, MySQL |
 | **[QR Code Label Generator](https://github.com/varunvasudevan/qr-label-generator)** | Windows app for QR-coded part labels: live preview, printing to any printer, print history and CSV reports | Python, Tkinter, qrcode, pywin32 |
 | **[Visitor Management System](https://github.com/varunvasudevan/visitor-management-system)** | Desktop front-desk app: webcam photo capture, visitor details and check-in log; Android version in progress | Python, Tkinter, OpenCV, MySQL |
+| **[Desktop Notification Widget](https://github.com/varunvasudevan/desktop-notification-widget)** | Windows desktop widget pushing live stock and production updates across an automobile plant network: dashboard, floating pop-ups, connection status | Tauri, Rust, JavaScript, Tailwind CSS |
 | **[Hot Stamping ERP](https://github.com/varunvasudevan/hot-stamping-erp)** · 🚧 | SAP-style ERP for a hot stamping production company: coil tracking from store to dispatch, RBAC with per-module permissions, live activity log, FIFO inward stock and Excel reports | Laravel 10, PostgreSQL, Redis, Bootstrap 5, jQuery |
 | **[DC Bill Management System](https://github.com/varunvasudevan/dc-bill-management)** | Delivery challans for a mechanical engineering company in Chennai: returnable/non-returnable bills, partial returns, stock updates, PDF bills | Laravel, Tailwind CSS, MySQL, DomPDF |
 | **[Odoo / OpenERP – Tadpole Engineering](https://github.com/varunvasudevan/odoo-openerp-erp)** | As IT Manager in Chennai: ERP implementation, OpenERP 6/7 customisation (custom modules, views, reports), Odoo 13+ server management and upgrades, user training and support | Odoo, OpenERP, Python, PostgreSQL, Linux |
 | **[Bhasha Sanchika – DSpace Repository](https://github.com/varunvasudevan/bhasha-sanchika)** · [live](https://sanchika.ciil.org/) | CIIL's national digital language repository (7,700+ items): DSpace 9 deployment, fully custom theme, legacy backup migration, search and analytics | DSpace 9, Angular, Solr, Tomcat, PostgreSQL, Docker |
 | **[SPPEL – Website & AI Assistant](https://github.com/varunvasudevan/sppel-website)** · [live](https://sppel.org/) | Official website of CIIL's Scheme for Protection and Preservation of Endangered Languages: 117 languages across six zones, resources catalogue, events, and an AI assistant answering visitor questions | Laravel, AI/LLM integration |
-| **[ESP32 LAN IR Sensor Counter](https://github.com/varunvasudevan/esp32-ir-sensor-counter)** | Six IR sensors on an ESP32 send counts over wired Ethernet to a Raspberry Pi; MySQL event log, live WebSocket dashboard, daily reset and power-cut recovery | ESP32, W5500, Raspberry Pi, FastAPI, MySQL, WebSockets |
+| **[Stamping Machine Production Counter](https://github.com/varunvasudevan/stamping-machine-counter)** | Counts every stroke of stamping machines with IR sensors and sends counts to a central server for live monitoring from other locations; MySQL stroke log, shift reset and power-cut recovery | ESP32, W5500, Raspberry Pi, FastAPI, MySQL, WebSockets |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
 | **QuantNovaLabs** | NSE options signal analysis and auto-trading platform with broker API integration and PDF reports | Python, Fyers API, Kite Connect, WeasyPrint |
@@ -101,6 +102,8 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 **Desktop & Mobile**
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat&logo=python&logoColor=white)
