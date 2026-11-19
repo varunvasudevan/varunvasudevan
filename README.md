@@ -39,6 +39,7 @@
 | **[Odoo / OpenERP – Tadpole Engineering](https://github.com/varunvasudevan/odoo-openerp-erp)** | As IT Manager in Chennai: ERP implementation, OpenERP 6/7 customisation (custom modules, views, reports), Odoo 13+ server management and upgrades, user training and support | Odoo, OpenERP, Python, PostgreSQL, Linux |
 | **[Bhasha Sanchika – DSpace Repository](https://github.com/varunvasudevan/bhasha-sanchika)** · [live](https://sanchika.ciil.org/) | CIIL's national digital language repository (7,700+ items): DSpace 9 deployment, fully custom theme, legacy backup migration, search and analytics | DSpace 9, Angular, Solr, Tomcat, PostgreSQL, Docker |
 | **SPPEL Website & Agentic App** | Website for the SPPEL project plus an agentic AI application | Laravel, Angular, AI/LLM integration |
+| **[ESP32 LAN IR Sensor Counter](https://github.com/varunvasudevan/esp32-ir-sensor-counter)** | Six IR sensors on an ESP32 send counts over wired Ethernet to a Raspberry Pi; MySQL event log, live WebSocket dashboard, daily reset and power-cut recovery | ESP32, W5500, Raspberry Pi, FastAPI, MySQL, WebSockets |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
 | **QuantNovaLabs** | NSE options signal analysis and auto-trading platform with broker API integration and PDF reports | Python, Fyers API, Kite Connect, WeasyPrint |
@@ -84,6 +85,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -128,6 +131,8 @@
 
 **IoT & Platforms**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
