@@ -62,6 +62,7 @@
 
 | Project | About |
 |---|---|
+| [**NetDoctor**](https://github.com/varunvasudevan/netdoctor) | Single-file Windows tool that finds out why internet is slow: Wi-Fi and channel analysis, latency, DNS, speed and bufferbloat, settings and basic threat signals, with an animated terminal UI and HTML/JSON reports. Written in Go, MIT licensed |
 | [**DSpace 9 One-Stop Installer**](https://github.com/varunvasudevan/dspace9-installer) | One Bash script that installs a production-ready DSpace 9.x on Ubuntu: backend, Angular UI, PostgreSQL, Solr, Tomcat, PM2, Nginx and Let's Encrypt. Step-based, re-runnable, MIT licensed |
 | [**Lucky Dangle**](https://github.com/varunvasudevan/lucky-dangle) · [demo](https://varunvasudevan.github.io/lucky-dangle/) | A lucky charm that dangles from the top of your browser on a Verlet-rope simulation. One HTML file, no dependencies, MIT licensed |
 
@@ -88,6 +89,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=laravel&logoColor=black)
