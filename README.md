@@ -43,7 +43,7 @@
 | **[Stamping Machine Production Counter](https://github.com/varunvasudevan/stamping-machine-counter)** | Counts every stroke of stamping machines with IR sensors and sends counts to a central server for live monitoring from other locations; MySQL stroke log, shift reset and power-cut recovery | ESP32, W5500, Raspberry Pi, FastAPI, MySQL, WebSockets |
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
-| **QuantNovaLabs** | NSE options signal analysis and auto-trading platform with broker API integration and PDF reports | Python, Fyers API, Kite Connect, WeasyPrint |
+| **[QuantNova Labs](https://github.com/varunvasudevan/quantnovalabs)** · [live](https://quantnovalabs.com/) | NSE options signal platform: Python signal engine with broker integration, plus a Laravel site and members' area with live option-signal P/L dashboards, plans and an admin panel | Laravel 12, Filament, Tailwind, Alpine.js, MySQL, Python/FastAPI, Fyers, Kite Connect |
 | **Hospital Network Monitoring** | Floor-wise device monitoring for 400+ network devices with alerts & history | Zabbix / PRTG concepts, Python, ntfy |
 
 ### 🌐 Live websites
@@ -52,6 +52,7 @@
 |---|---|
 | [sanchika.ciil.org](https://sanchika.ciil.org/) | Bhasha Sanchika, the digital language repository of CIIL, Ministry of Education |
 | [sppel.org](https://sppel.org/) | SPPEL, CIIL's Scheme for Protection and Preservation of Endangered Languages, with an AI assistant |
+| [quantnovalabs.com](https://quantnovalabs.com/) | QuantNova Labs, an NSE options trading intelligence platform with live signal dashboards |
 | [vanchipoorfund.org](https://vanchipoorfund.org/) | Kerala charity (est. 1941) with online donations and payment integration |
 | [shieldess.com](https://shieldess.com/) | Building management & ELV security systems company |
 | [attukaldevihospital.com](https://attukaldevihospital.com/) | NABH-accredited multispecialty hospital, Thiruvananthapuram |
@@ -89,6 +90,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=laravel&logoColor=black)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -98,6 +100,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
