@@ -44,7 +44,7 @@
 | **Stallion Machinery IoT Platform** | Remote monitoring of rental cement mixers across Gulf countries: telemetry, GPS, device events, role-based access | ESP32, MQTT (mTLS), Node.js/TypeScript, TimescaleDB, Valkey, Keycloak |
 | **Patient Feedback Platform** | Patient experience & feedback system with patient-facing forms and an admin dashboard | Laravel, PostgreSQL |
 | **[QuantNova Labs](https://github.com/varunvasudevan/quantnovalabs)** · [live](https://quantnovalabs.com/) | NSE options signal platform: Python signal engine with broker integration, plus a Laravel site and members' area with live option-signal P/L dashboards, plans and an admin panel | Laravel 12, Filament, Tailwind, Alpine.js, MySQL, Python/FastAPI, Fyers, Kite Connect |
-| **Hospital Network Monitoring** | Floor-wise device monitoring for 400+ network devices with alerts & history | Zabbix / PRTG concepts, Python, ntfy |
+| **[NetWatch – Network Monitor](https://github.com/varunvasudevan/netwatch-network-monitor)** | Hospital network monitor for ~385 devices floor by floor: live status, 3D building view, wall display, alarms with sound, voice and ntfy push, availability reports and network discovery | Python, FastAPI, Angular 18, PostgreSQL, TimescaleDB, Nginx, ntfy |
 
 ### 🌐 Live websites
 
@@ -135,6 +135,7 @@
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![ntfy](https://img.shields.io/badge/ntfy-317F6F?style=flat)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
